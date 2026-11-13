@@ -2,6 +2,8 @@
 
 Este é um aplicativo web desenvolvido em Python com **Streamlit** e **OpenCV**. O objetivo do sistema é automatizar a validação de fotos submetidas por colaboradores, garantindo que elas atendam a padrões rigorosos (como os exigidos em documentos oficiais ou crachás) antes de serem aceitas no sistema.
 
+## Disponível em: https://fotocheck.streamlit.app/
+
 ## 🚀 Funcionalidades
 
 O sistema avalia a imagem carregada e verifica matematicamente as seguintes regras:
